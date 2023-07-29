@@ -1,1 +1,1 @@
-# JavaBankProj
+# Basic GUI Java Bank Applet
